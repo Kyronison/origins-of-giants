@@ -1,0 +1,21 @@
+openai>=1.50
+elevenlabs>=1.10
+fal-client>=0.5
+requests>=2.32
+google-api-python-client>=2.140
+google-auth-oauthlib>=1.2
+python-dotenv>=1.0
+pydantic>=2.8
+pillow>=10.0
+numpy>=1.26
+imageio-ffmpeg>=0.6
+psutil>=5.9
+ddgs>=9.0
+yt-dlp>=2026.8.19
+scipy>=1.11
+torch>=2.6
+torchaudio>=2.6
+speechbrain>=1.0
+tzdata>=2025.1
+PySocks==1.7.1   # SOCKS proxy support for Google API requests
+pypdf   # PDF source extraction for the Spanish book-research stage

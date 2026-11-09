@@ -1,0 +1,49 @@
+{
+  "timeline": {
+    "title": "Origins of Giants — rendering sample",
+    "channel": "Origins of Giants",
+    "duration": 18,
+    "voice": false,
+    "subtitles": false,
+    "film": null,
+    "shorts": [
+      {
+        "start": 0,
+        "end": 18
+      }
+    ],
+    "scenes": [
+      {
+        "id": "intro",
+        "type": "title",
+        "start": 0,
+        "end": 6,
+        "data": {
+          "text": "From research to a finished documentary"
+        },
+        "caption": "Rendering sample · synthetic content"
+      },
+      {
+        "id": "timeline",
+        "type": "title",
+        "start": 6,
+        "end": 12,
+        "data": {
+          "text": "Research → script → storyboard → render"
+        },
+        "caption": "Python orchestration + Remotion compositions"
+      },
+      {
+        "id": "review",
+        "type": "title",
+        "start": 12,
+        "end": 18,
+        "data": {
+          "text": "Review, publish and measure"
+        },
+        "caption": "No API keys or production media required for this sample"
+      }
+    ]
+  },
+  "words": []
+}

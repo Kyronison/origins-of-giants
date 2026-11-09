@@ -1,0 +1,24 @@
+{
+  "name": "unit-economics-video",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --public-dir ../data/videos/sample",
+    "render": "remotion render src/index.ts",
+    "render:sample": "remotion render src/index.ts Main ../data/videos/sample/final.mp4 --props ../data/videos/sample/props.json --public-dir ../data/videos/sample",
+    "brand": "remotion still src/index.ts Avatar ../data/channel/avatar.png --props ../data/channel/brand.props.json --public-dir ../data/channel && remotion still src/index.ts Banner ../data/channel/banner.png --props ../data/channel/brand.props.json --public-dir ../data/channel && remotion still src/index.ts Watermark ../data/channel/watermark.png --props ../data/channel/brand.props.json --public-dir ../data/channel"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.230",
+    "@remotion/google-fonts": "^4.0.230",
+    "@remotion/media-utils": "^4.0.230",
+    "@types/d3-geo": "^3.1.1",
+    "d3-geo": "^3.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.230"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  }
+}

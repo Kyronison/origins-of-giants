@@ -1,0 +1,2 @@
+{ "compilerOptions": { "target": "ES2020", "module": "ESNext", "jsx": "react-jsx", "moduleResolution": "Bundler",
+  "strict": true, "skipLibCheck": true, "esModuleInterop": true, "resolveJsonModule": true }, "include": ["src", "../data/videos/sample/*.json"] }

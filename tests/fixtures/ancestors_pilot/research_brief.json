@@ -1,0 +1,150 @@
+{
+  "_fixture_note": "Synthetic schema fixture. Claims and sources are placeholders for software tests, not historical research.",
+  "schema": "ordinary-ancestors.research-brief.v1",
+  "episode": {
+    "title": "A Winter Night Inside an Ice Age Home"
+  },
+  "historical_scope": {
+    "public_date_label": "Synthetic fixture period",
+    "note": "No historical assertions are made by this fixture."
+  },
+  "visual_historical_invariants": [
+    "Render only the synthetic objects in the test instructions."
+  ],
+  "claims_to_exclude": [
+    "Do not treat fixture text as historical evidence."
+  ],
+  "sources": [
+    {
+      "id": "fixture-source",
+      "title": "Synthetic fixture source",
+      "url": "https://example.invalid/synthetic-fixture"
+    }
+  ],
+  "facts": [
+    {
+      "id": "F01",
+      "claim_en": "Synthetic fixture claim 1; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F02",
+      "claim_en": "Synthetic fixture claim 2; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F03",
+      "claim_en": "Synthetic fixture claim 3; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F04",
+      "claim_en": "Synthetic fixture claim 4; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F05",
+      "claim_en": "Synthetic fixture claim 5; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F06",
+      "claim_en": "Synthetic fixture claim 6; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F07",
+      "claim_en": "Synthetic fixture claim 7; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F08",
+      "claim_en": "Synthetic fixture claim 8; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F09",
+      "claim_en": "Synthetic fixture claim 9; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F10",
+      "claim_en": "Synthetic fixture claim 10; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F11",
+      "claim_en": "Synthetic fixture claim 11; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    },
+    {
+      "id": "F12",
+      "claim_en": "Synthetic fixture claim 12; no factual assertion is intended.",
+      "source_ids": [
+        "fixture-source"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "name": "Fixture chapter 1",
+      "facts": [
+        "F01",
+        "F02"
+      ]
+    },
+    {
+      "name": "Fixture chapter 2",
+      "facts": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "name": "Fixture chapter 3",
+      "facts": [
+        "F05",
+        "F06"
+      ]
+    },
+    {
+      "name": "Fixture chapter 4",
+      "facts": [
+        "F07",
+        "F08"
+      ]
+    },
+    {
+      "name": "Fixture chapter 5",
+      "facts": [
+        "F09",
+        "F10"
+      ]
+    }
+  ],
+  "opening_disclosure": {
+    "description_note": "Synthetic software fixture; not a documentary or historical claim."
+  }
+}
